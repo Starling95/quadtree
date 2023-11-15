@@ -55,6 +55,3 @@ quad_tree_data = [
 quad_tree = QuadTree.fromList(quad_tree_data)
 quad_tree.paint()
 print(f"Depth: {quad_tree.depth}")
-
-
-
